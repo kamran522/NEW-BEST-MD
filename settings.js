@@ -85,9 +85,9 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/karachi,pakistan'
 //👇 Removebg Api key
-global.REMOVE_BG_API = 'apikey get on remoebg.com'
+global.REMOVE_BG_API = 'Z4G1Pp3H95dw2eP3YeUrM5g7'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
@@ -106,12 +106,12 @@ global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
-//👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
-global.CHATGPT_API = ''
+//👇 Open ai API Put Withouth "sk-" 
+global.CHATGPT_API = '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'
 //👇 Sex  video Download Allowed Groups
-global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
+global.SEX_DOWNLOAD_GROUPS = ['null']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/CKsZELVzMrrIVI9TDqAu8X'
+global.GROUP_LINK = 'NULL'
 /*
 
    🍃 OTHER 🍃
@@ -157,7 +157,7 @@ global.pemilik = ['923323963788'] //Change  it , ඔබට කැමති න�
 global.premium = ['923323963788'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '🅚 🅐 🅜 🅘' // Your name ඔබේ නම 
 global.sessionName = 'session'
-global.prefix = ['#','!','.'] 
+global.prefix = [''] 
 global.sp = '👽'
 global.weem = '🅚 🅐 🅜 🅘'
 

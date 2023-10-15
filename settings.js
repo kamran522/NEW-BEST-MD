@@ -15,7 +15,7 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , 
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" 
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , 
@@ -52,7 +52,7 @@ global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
-global.PRIVET_BOT = false
+global.PRIVET_BOT = true
 //👇 DISABLE Bot Commands But Others Are Working 
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off

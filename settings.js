@@ -107,7 +107,7 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" 
-global.CHATGPT_API = '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'
+global.CHATGPT_API = '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'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['null']
 //👇 Your Bot Group Link
